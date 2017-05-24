@@ -5,7 +5,7 @@ Credits: Sayantan Mukherjee and Anis(https://stackoverflow.com/users/4022997/ani
 Start the flask_test.py and after that run sample_server.py. 
 Check the console for result.
 
-Requirements:
+Requirements:<br/>
 Python 2.7
 Flask
 Requests
