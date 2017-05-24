@@ -6,7 +6,7 @@ Start the flask_test.py and after that run sample_server.py.
 Check the console for result.
 
 Requirements:<br/>
-Python 2.7
-Flask
-Requests
+Python 2.7<br/>
+Flask<br/>
+Requests<br/>
 
