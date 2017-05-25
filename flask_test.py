@@ -1,8 +1,8 @@
 '''
 Credits : Sayantan Mukherjee
-		  Anis (https://stackoverflow.com/users/4022997/anis)
-		  
-		  Simple Python logger to log an incoming TCP requests at port 8000 of local machine.
+	  Anis (https://stackoverflow.com/users/4022997/anis)
+
+	  Simple Python logger to log an incoming TCP requests at port 8000 of local machine.
 '''
 
 from flask import Flask,g,request,session
